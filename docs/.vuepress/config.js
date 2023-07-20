@@ -16,6 +16,7 @@ export default defineUserConfig({
         link: '/',
       },
     ],
+    repo: 'NewWorldComingSoon/llvm-msvc',
     
   })
 })

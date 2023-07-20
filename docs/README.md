@@ -12,11 +12,11 @@ actions:
     link: /guide/
     type: secondary
 features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-  - title: Vue 驱动
-    details: 享受 Vue 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。
-  - title: 高性能
-    details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
+  - title: 简洁易懂
+    details: 采用清晰简洁的代码风格和界面设计，为开发者提供直观易懂的文档和配置选项，使其能够专注于编写高质量的代码
+  - title: 出色性能
+    details: 通过预编译生成静态的机器码，确保快速加载和高效运行。同时，还采用即时编译技术，在运行时对代码进行优化，提供强大的动态执行能力。
+  - title: 强大灵活
+    details: 提供丰富的功能和自定义能力，让开发者能够轻松编写高效、可靠的代码。注重简洁和易用性的设计，成为开发者首选的编译器工具。
 footer: MIT Licensed | Copyright © 2022-2023 LLVM-MSVC
 ---
