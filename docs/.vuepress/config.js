@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: 'LLVM-MSVC',
   description: '专为Windows开发者设计的LLVM',
   theme: defaultTheme({
-    
+    base:'/docs/',
     // 默认主题配置
     logo: '/logo.png',
     navbar: [
