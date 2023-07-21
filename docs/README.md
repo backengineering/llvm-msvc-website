@@ -3,20 +3,20 @@ home: true
 heroImage: /logo.png
 heroHeight: 200
 heroText: LLVM-MSVC
-tagline:  专为Windows开发者设计的LLVM
+tagline:  LLVM for Windows Developers
 actions:
-  - text: 快速上手
+  - text: Get Started
     link: /zh/guide/getting-started.html
     type: primary
-  - text: 项目简介
+  - text: Introduction
     link: /guide/
     type: secondary
 features:
-  - title: 简洁易懂
-    details: 采用清晰简洁的代码风格和界面设计，为开发者提供直观易懂的文档和配置选项，使其能够专注于编写高质量的代码
-  - title: 出色性能
-    details: 通过预编译生成静态的机器码，确保快速加载和高效运行。同时，还采用即时编译技术，在运行时对代码进行优化，提供强大的动态执行能力。
-  - title: 强大灵活
-    details: 提供丰富的功能和自定义能力，让开发者能够轻松编写高效、可靠的代码。注重简洁和易用性的设计，成为开发者首选的编译器工具。
+  - title: Simplicity and Clarity
+    details:  LLVM adopts a clear and concise code style and interface design, providing developers with intuitive and easy-to-understand documentation and configuration options, allowing them to focus on writing high-quality code.
+  - title: Outstanding Performance
+    details: LLVM ensures fast loading and efficient execution by generating static machine code through precompilation. Additionally, it utilizes Just-in-Time (JIT) compilation technology to optimize code at runtime, providing powerful dynamic execution capabilities.
+  - title: Powerful and Flexible
+    details: LLVM offers rich functionality and customization capabilities, making it a preferred compiler tool for developers. It emphasizes simplicity and ease of use in its design, enabling developers to easily write efficient and reliable code.
 footer: MIT Licensed | Copyright © 2022-2023 LLVM-MSVC
 ---
