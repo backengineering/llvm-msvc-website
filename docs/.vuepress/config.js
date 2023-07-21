@@ -12,10 +12,15 @@ export default defineUserConfig({
       title: 'LLVM-MSVC',
       description: 'This version is designed for windows users',
     },
-    '/zh/': {
+    '/zh-CN/': {
       lang: 'zh-CN',
       title: 'LLVM-MSVC',
       description: '专为Windows开发者设计的LLVM',
+    },
+    '/zh-TW/': {
+      lang: 'zh-TW',
+      title: 'LLVM-MSVC',
+      description: '專為Windows開發者設計的LLVM',
     },
   },
   theme: defaultTheme({
@@ -33,12 +38,22 @@ export default defineUserConfig({
           },
         ],
       },
-      '/zh/': {
+      '/zh-CN/': {
         selectLanguageName: '简体中文',
         selectLanguageText: '选择语言',
         navbar: [
           {
             text: '首页',
+            link: '/',
+          },
+        ],
+      },
+      '/zh-TW/': {
+        selectLanguageName: '繁體中文',
+        selectLanguageText: '選擇語言',
+        navbar: [
+          {
+            text: '首頁',
             link: '/',
           },
         ],
