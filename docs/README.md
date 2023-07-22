@@ -18,5 +18,5 @@ features:
     details: LLVM ensures fast loading and efficient execution by generating static machine code through precompilation. Additionally, it utilizes Just-in-Time (JIT) compilation technology to optimize code at runtime, providing powerful dynamic execution capabilities.
   - title: Powerful and Flexible
     details: LLVM offers rich functionality and customization capabilities, making it a preferred compiler tool for developers. It emphasizes simplicity and ease of use in its design, enabling developers to easily write efficient and reliable code.
-footer: MIT Licensed | Copyright © 2022-2023 LLVM-MSVC
+footer: AGPL-3.0 Licensed | Copyright © 2022-2023 LLVM-MSVC
 ---
