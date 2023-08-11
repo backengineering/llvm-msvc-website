@@ -59,7 +59,7 @@ export default defineUserConfig({
         ],
       },
     },
-    repo: 'NewWorldComingSoon/llvm-msvc',
+    repo: 'backengineering/llvm-msvc',
     
   })
 })
