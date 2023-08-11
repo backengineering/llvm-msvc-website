@@ -1,1 +1,1 @@
-Documentation for LLVM-MSVC
+Documentation for LLVM-MSVC.
